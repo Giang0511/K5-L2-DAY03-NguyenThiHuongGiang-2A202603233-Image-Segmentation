@@ -33,7 +33,7 @@
 - Lỗi thuộc loại: biên / phủ vùng.
 - Bằng chứng tôi nhìn thấy: khi tự QC trong CVAT, phần mask công trình (màu xanh lá) tô cả vào các khe giữa các cột, trong khi qua khe vẫn nhìn thấy đường phố phía sau (xe taxi vàng, người đi bộ). Vùng này không phải công trình.
 - Quy tắc và hành động sửa: quy tắc là chỉ gán lớp cho phần nhìn thấy đúng với lớp đó, không tô ép vùng chưa chắc. Hành động sửa: dùng Brush ở chế độ Eraser xóa phần mask `building` lấn vào khe.
-- Sau sửa đã Save và export lại chưa? 【Đã / Chưa — chỉ giữ "Đã" nếu bạn thật sự đã sửa, Save và export lại `hard_panoptic.zip`】
+- Sau sửa đã Save và export lại chưa? Đã sửa
 
 Kết quả tự đánh giá liên quan lỗi vừa sửa: chưa có điểm.
 
